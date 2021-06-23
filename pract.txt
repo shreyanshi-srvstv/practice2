@@ -5,6 +5,8 @@ Welcome
 
 pasta
 Chicken 65
+Beans 
+Pizza
 
 
 
